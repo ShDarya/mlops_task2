@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/523201309390040561/62be277e1d8e43c99be5a10a4608252d/artifacts
+end_time: 1735136922677
+entry_point_name: ''
+experiment_id: '523201309390040561'
+lifecycle_stage: active
+run_id: 62be277e1d8e43c99be5a10a4608252d
+run_name: dazzling-wasp-498
+run_uuid: 62be277e1d8e43c99be5a10a4608252d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735136895593
+status: 3
+tags: []
+user_id: darya

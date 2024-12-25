@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/523201309390040561/3f45ab9a1bdf4f14bee599a19538dab3/artifacts
+end_time: 1735138748634
+entry_point_name: ''
+experiment_id: '523201309390040561'
+lifecycle_stage: active
+run_id: 3f45ab9a1bdf4f14bee599a19538dab3
+run_name: glamorous-ram-978
+run_uuid: 3f45ab9a1bdf4f14bee599a19538dab3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735138707573
+status: 3
+tags: []
+user_id: darya

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/523201309390040561/34757fd104e74169a878a199c65ca53f/artifacts
+end_time: 1735141885426
+entry_point_name: ''
+experiment_id: '523201309390040561'
+lifecycle_stage: active
+run_id: 34757fd104e74169a878a199c65ca53f
+run_name: thundering-hen-566
+run_uuid: 34757fd104e74169a878a199c65ca53f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735141856200
+status: 3
+tags: []
+user_id: darya

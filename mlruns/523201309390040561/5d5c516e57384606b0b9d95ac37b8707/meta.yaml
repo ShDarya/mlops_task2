@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/523201309390040561/5d5c516e57384606b0b9d95ac37b8707/artifacts
+end_time: 1735137878340
+entry_point_name: ''
+experiment_id: '523201309390040561'
+lifecycle_stage: active
+run_id: 5d5c516e57384606b0b9d95ac37b8707
+run_name: nebulous-rat-932
+run_uuid: 5d5c516e57384606b0b9d95ac37b8707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735137843996
+status: 3
+tags: []
+user_id: darya

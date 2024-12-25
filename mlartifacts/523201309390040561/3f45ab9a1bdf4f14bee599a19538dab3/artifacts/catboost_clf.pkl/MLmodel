@@ -1,0 +1,38 @@
+artifact_path: catboost_clf.pkl
+flavors:
+  catboost:
+    catboost_version: 1.1.1
+    code: null
+    data: model.cb
+    model_type: CatBoostClassifier
+    save_format: cbm
+  python_function:
+    data: model.cb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.catboost
+    python_version: 3.8.20
+mlflow_version: 2.16.2
+model_size_bytes: 836898
+model_uuid: 57f79d9747d04da4a18a97411f08292c
+run_id: 3f45ab9a1bdf4f14bee599a19538dab3
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "sepal_length", "required": true}, {"type":
+    "double", "name": "sepal_width", "required": true}, {"type": "double", "name":
+    "petal_length", "required": true}, {"type": "double", "name": "petal_width", "required":
+    true}, {"type": "double", "name": "petal_length_squared", "required": true}, {"type":
+    "double", "name": "petal_width_squared", "required": true}, {"type": "double",
+    "name": "petal_length_width_ratio", "required": true}, {"type": "double", "name":
+    "sepal_length_width_ratio", "required": true}, {"type": "double", "name": "petal_length_x_width",
+    "required": true}, {"type": "double", "name": "sepal_length_x_width", "required":
+    true}, {"type": "double", "name": "log_petal_length", "required": true}, {"type":
+    "double", "name": "log_petal_width", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1, 1]}}]'
+  params: null
+utc_time_created: '2024-12-25 14:58:55.429261'
